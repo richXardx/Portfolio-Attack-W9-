@@ -1,0 +1,8 @@
+The Additional Files contains the files used to enhance the learning outcome. 
+
+PSI Squared owns the "Additional file" in the folder. 
+Additional learning materials were used from PSI Squared's YouTube Channel 
+
+Please be advised files usage from here was done as well. 
+
+MS2 and 127.0.0.1 DVMA was used for other script attacks to steal cookies as instructed in the available Online class recording.
